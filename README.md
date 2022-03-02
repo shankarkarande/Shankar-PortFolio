@@ -24,6 +24,6 @@ python main.py
 Go to `http://127.0.0.1:5040`
 
 # Developer
-<li>Shankar Karande (<a href="mailto:shankarkarande440@gmai.com">shankarkarande440@gmai.com</a>)</li>
+<li>Shankar Karande (<a href="mailto:shankarkarande440@gmail.com">shankarkarande440@gmai.com</a>)</li>
 
 
