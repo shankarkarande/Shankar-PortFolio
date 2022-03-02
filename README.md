@@ -21,7 +21,7 @@ python main.py
 
 ## Viewing The App
 
-Go to `http://127.0.0.1:5040`
+Go to `http://127.0.0.1:2030`
 
 # Developer
 <li>Shankar Karande (<a href="mailto:shankarkarande440@gmail.com">shankarkarande440@gmai.com</a>)</li>
