@@ -1,4 +1,5 @@
-# Flask Web App Tutorial
+# This is my personal Flask webapp Portfolio.
+In this webapp you will simply register and see my portfolio.
 
 ## Setup & Installtion
 
@@ -20,4 +21,6 @@ python main.py
 
 ## Viewing The App
 
-Go to `http://127.0.0.1:5000`
+Go to `http://127.0.0.1:5040`
+
+
